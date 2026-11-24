@@ -2,11 +2,11 @@
 
 ```
 portfolio-source/
-├── index.html              ← الصفحة والمحتوى (النصوص، الأقسام)
-├── css/style.css           ← كل التصميم والألوان (الألوان في أول الملف)
-├── js/projects-links.js    ← حط هنا لينكات المشاريع
-├── js/main.js              ← التنقل بين الأقسام وعمل أزرار اللينكات (مش محتاج تعدّل فيه)
-└── assets/photo.jpg        ← صورتك (استبدلها بنفس الاسم)
+├── index.html              
+├── css/style.css           
+├── js/projects-links.js    
+├── js/main.js              
+└── assets/photo.jpg         
 ```
 
 ## التشغيل
